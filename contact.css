@@ -29,13 +29,13 @@ main {
     text-align: center;
 }
 form {
-    max-width: 500px;
+    max-width: 100%;
     margin: 0 auto;
 }
 input, textarea {
     width: 100%;
     padding: 10px;
-    margin: 5px 0;
+    margin:10px -10px 10px;
     border: 1px solid #ccc;
     border-radius: 5px;
 }
